@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h2>Welcome to Hearth Dominator</h2>
+          <h2>Welcome to HearthDominator</h2>
 
           <p>
             Start a <button type="button" onClick={() => void(0)}>New Draft</button>
